@@ -1,0 +1,25 @@
+User story du projet dev web : Noob Cooking
+
+Nom du client : Nicolas Carré
+
+Statut du client : étudiant habitant en colocation dans un appartement de Louvain-La-Neuve
+
+
+En tant qu'étudiant ne sachant pas cuisiner du tout et ayant un équipement de cuisine restreint,
+Je veux savoir trier mes recettes sur base de leur difficulté et pouvoir exempter les recettes qui requièrent un équipement de cuisine que je n'ai pas à ma disposition
+Afin de pouvoir aller plus vite que d'habitude dans ma recherche de recettes
+
+
+En tant qu'étudiant ayant peu de capacités en cuisine
+Je veux avoir accès à des tutoriels sur les bases de la cuisine 
+Afin de pouvoir acquérir les ingrédients (épices et autres) et ustensiles de cuisine de base nécessaires aux recettes les plus basiques
+
+
+En tant que nouvel utilisateur cherchant à utiliser ce site
+Je souhaite être capable de créer un compte sur Noob cooking et y entrer mes ingrédients "de base" ainsi que mes ustensiles de cuisine
+Afin de pouvoir trier mes recettes plus rapidement sur base de ce que j'ai chez moi 
+
+
+En tant qu'utilisateur ayant déjà un peu d'expérience en cuisine et/ou ayant un concept de recette novateur ou intéressant
+Je veux pouvoir la poster sur le site et y rajouter toutes ses fonctionnalités uniques telles que le tri sur ustensiles et ingrédients
+Afin de la partager avec d'autres utilisateurs
