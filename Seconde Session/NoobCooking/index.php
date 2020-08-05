@@ -24,8 +24,8 @@
         <!-- Right-sided navbar links. Hide them on small screens -->
         <div class="w3-right w3-hide-small">
             <a href="#about" class="w3-bar-item w3-button">A Propos</a>
-            <a href="#menu" class="w3-bar-item w3-button">Recettes</a>
-            <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+            <a href="#recettes" class="w3-bar-item w3-button">Recettes</a>
+            <a href="#postez" class="w3-bar-item w3-button">Postez votre recette</a>
         </div>
     </div>
 </div>
@@ -55,7 +55,7 @@
     <hr>
 
     <!-- Menu Section -->
-    <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-row w3-padding-64" id="recettes">
         <div class="w3-col l6 w3-padding-large">
             <h1 class="w3-center">Recettes</h1><br>
             <h4>Omelette</h4>
@@ -75,17 +75,16 @@
     <hr>
 
     <!-- Contact Section -->
-    <div class="w3-container w3-padding-64" id="contact">
-        <h1>Contact</h1><br>
-        <p>N'hésitez pas à me contacter à l'adresse mail suivante
-        <address>
-            <a href="mailto:webmaster@example.com">Arno Godart</a>.<br>
-        </address>
-        </p>
-
-        <!-- Formulaire de mail à effectuer en PHP-->
-        <form action="/action_page.php" target="_blank">
+    <div class="w3-container w3-padding-64" id="postez">
+        <h1>Postez votre recette</h1><br>
+        <form action="action_page.php" target="_blank">
+            <p>Votre nom : <input type="text" name="nom" /></p>
+            <p>Nom de la recette : <input type="text" name="nomRecette" /></p>
+            <p>Description <input type="text" name="description" /></p>
+            <p><input type="submit" value="OK"></p>
         </form>
+
+
     </div>
 
     <!-- End page content -->
